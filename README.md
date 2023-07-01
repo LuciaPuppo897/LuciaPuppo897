@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> 🍃 Hi , I'm  Lucia Puppo or just Puppo 🍃</h1>
-<h3 align="center">  🦄Software development student in uruguay 🦄</h3>
+<h3 align="center">  💻 Full stack developer student in Holberton Uruguay 💻</h3>
 
 
 
