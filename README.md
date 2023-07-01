@@ -2,8 +2,8 @@
 ![logo](https://i.pinimg.com/564x/aa/e7/c6/aae7c685ac7e3c30a556304b134b24e0.jpg)
 
 
-<h1 align="center"> 🍃 Hi , I'm  Lucia Puppo or just Puppo </h1>
-<h3 align="center">👩‍💻 Software development student in uruguay</h3>
+<h1 align="center"> 🍃 Hi , I'm  Lucia Puppo or just Puppo </h1>🍃
+<h3 align="center">  🦄Software development student in uruguay</h3>🦄
 
 
 
