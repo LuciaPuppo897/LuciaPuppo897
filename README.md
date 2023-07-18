@@ -59,15 +59,17 @@ Used to format and display null-terminated strings.
 Used to display the percent symbol % itself.
 
 ## File Descriptions
-**putchar.c** :  contains the _putchar function , which writes a character to stdout.
-**main.h** : contains all function prototypes used for _printf. 
-**func decimal_int.c** : contains the print_d and print_i funcions, which handle %d and %i respectly.
-**func char_string_porcent.c** : contains the print_c , print_s , print_percent functions, which handle %c, %s and %% .
-**_printf.c** :  contains the fucntion _printf, which uses the prototype int _printf(const char *format, ...); for more information check man_3_printf.
-**man_3_printf** : cointains the manual page for the custom _printf.
+* **putchar.c** :  contains the _putchar function , which writes a character to stdout.
+* **main.h** : contains all function prototypes used for _printf. 
+* **func decimal_int.c** : contains the print_d and print_i funcions, which handle %d and %i respectly.
+* **func char_string_porcent.c** : contains the print_c , print_s , print_percent functions, which handle %c, %s and %% .
+* **_printf.c** :  contains the fucntion _printf, which uses the prototype int _printf(const char *format, ...); for more information check man_3_printf.
+* **man_3_printf** : cointains the manual page for the custom _printf.
 
 
 ## Authors
 * **Carlos Franco** - [Github](https://github.com/cfranco87)
 * **Lucia Puppo** - [Github](https://github.com/LuciaPuppo897)
+
+
 holbertonschool-printf
