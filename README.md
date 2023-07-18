@@ -68,7 +68,6 @@ Used to display the percent symbol % itself.
 
 
 ## Authors
-        [Carlos Franco](https://github.com/cfranco87).
-        [Lucia Puppo](https://github.com/LuciaPuppo897).
-
+* **Carlos Franco** - [Github](https://github.com/cfranco87)
+* **Lucia Puppo** - [Github](https://github.com/LuciaPuppo897)
 holbertonschool-printf
