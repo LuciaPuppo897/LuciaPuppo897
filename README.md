@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/564x/aa/e7/c6/aae7c685ac7e3c30a556304b134b24e0.jpg" alt="logo" width="150"/>
+  <img src="https://i.pinimg.com/564x/aa/e7/c6/aae7c685ac7e3c30a556304b134b24e0.jpg" alt="logo" width="200"/>
 </p>
 
 <h1 align="center"> 🍃 Hi, I'm Lucia Puppo or just Puppo 🍃</h1>
@@ -88,6 +88,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>  
   </a>  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
+  </a> 
 </p>
 
 
