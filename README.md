@@ -11,7 +11,7 @@
 
 <h3 align="left">🎓 Education:</h3>
 
-- **Facultad de Ciencias, UdelaR** – Human Biology Student  
+- **Facultad de Ciencias, UdelaR** – Human Biology Student  *(In Progress)* 📊
 - **Holberton School Uruguay** – Full Stack Development  
 - **Fundación Telefónica & INEFOP** – "Junior Cybersecurity Consultant"
 - **Fundación Telefónica & INEFOP** – Junior Data Analyst (Data.Uy) *(In Progress)* 📊
