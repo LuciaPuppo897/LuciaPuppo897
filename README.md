@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://i.pinimg.com/564x/aa/e7/c6/aae7c685ac7e3c30a556304b134b24e0.jpg" alt="logo" width="150"/>
+</p>
+
 <h1 align="center"> 🍃 Hi, I'm Lucia Puppo or just Puppo 🍃</h1>
 <h3 align="center"> 💻 Full Stack Developer | Cybersecurity & Data Science Student 💻 </h3>
 <h4 align="center"> 💜🚀 Co-organizer at AWS User Group Girls UY 💜🚀 </h4>
+
 
 ---
 
@@ -63,5 +68,5 @@
 
 ---
 
-✨ *"Con ciencia grande no hay país pequeño"* - Clemente Estable 
+✨ *"Con ciencia grande no hay país pequeño"* - Clemente Estable ✨
 
