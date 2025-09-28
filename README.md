@@ -14,7 +14,7 @@
 - **Facultad de Ciencias, UdelaR** – Human Biology Student  *(In Progress)* 📊
 - **Holberton School Uruguay** – Full Stack Development  
 - **Fundación Telefónica & INEFOP** – "Junior Cybersecurity Consultant"
-- **Fundación Telefónica & INEFOP** – Junior Data Analyst (Data.Uy) *(In Progress)* 📊
+- **Fundación Telefónica & INEFOP** – Junior Data Analyst (Data.Uy) 
 ---
 
 <h3 align="left">📫 Contact Me:</h3>
