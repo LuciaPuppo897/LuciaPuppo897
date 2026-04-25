@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 🍃 Hi, I'm Lucia Puppo or just Puppo 🍃</h1>
-<h3 align="center"> 💻 Full Stack Developer | Cybersecurity & Data Science Student 💻 </h3>
+<h3 align="center"> 💻 Full Stack Developer | Data Science Student 💻 </h3>
 <h4 align="center"> 💜🚀 Co-organizer at AWS User Group Girls UY 💜🚀 </h4>
 
 <p align="center">
