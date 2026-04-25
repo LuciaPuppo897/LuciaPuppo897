@@ -66,7 +66,7 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" style="margin:5px;"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:5px;"/></a>
   <a href="https://aws.amazon.com/console/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:5px;"/></a>
+  <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" width="40" height="40" style="margin:5px;"/></a>
 </p>
 
 ### 🛠️ Tools & Platforms  
@@ -75,7 +75,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="margin:5px;"/></a>
   <a href="https://www.notion.so/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lZpuY9uUQGEAz2nbhURFK5SLBOPlQP4BvQ&s" width="40" height="40" style="margin:5px;"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin:5px;"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" style="margin:5px;"/></a>
 </p>
 
 
